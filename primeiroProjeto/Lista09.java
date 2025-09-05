@@ -24,7 +24,7 @@ System.out.println("\n");
 System.out.println("\n");
 
 	// 3 - Sequência numérica:
-		int numero3 = 5;
+		int numero3 = 0;
 		while(numero3 <= 100) {
 			System.out.println(numero3);
 			numero3+= 5; 
